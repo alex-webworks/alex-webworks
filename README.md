@@ -4,7 +4,7 @@
 ## I’m a Frontend developer
 - 💻 I like to code
 
-## Contact me
+### Contact me
 <br>
 
 ### Languages and Tools
