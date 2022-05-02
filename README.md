@@ -3,9 +3,8 @@
 
 ## I’m a Frontend developer
 - 💻 I like to code
+- 🚴🏼‍♂️ I likе ride
 
-### Contact me
-<br>
 
 ### Languages and Tools
 <img style="margin-right:10px" align="left" alt="Visual Studio Code" width="26px" src="https://linuxvsem.ru/wp-content/uploads/2019/11/1200px-Visual_Studio_Code_1.35_icon.svg_.png" />
@@ -18,5 +17,5 @@
 
 
 
-[instagram]: https://www.instagram.com/corvaxv/
-[vk]: https://vk.com/vladislavkalachov
+
+[vk]: https://vk.com/alex_webworks
