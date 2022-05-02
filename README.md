@@ -3,7 +3,8 @@
 
 ## I’m a Frontend developer
 - 💻 I like to code
-- 🚴🏼‍♂️ I likе ride
+- 🚴🏼‍♂️ I love to ride a bike
+- 🎬 I love watching movies
 
 
 ### Languages and Tools
