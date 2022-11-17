@@ -13,7 +13,6 @@
 <img style="margin-right:10px" align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <!-- <img style="margin-right:10px" align="left" alt="sass" width="26px" src="https://img.icons8.com/color/452/sass.png" /> -->
 <img style="margin-right:10px" align="left" alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" />
-<img style="margin-right:10px" align="left" alt="JavaScript" width="26px" src="https://avatars.mds.yandex.net/get-zen_doc/1645803/pub_5f5b0d7a8279b409461eaa29_5f5b0ebbd5e15d30de6dabab/scale_1200"/>
 <img style="margin-right:10px" align="left" alt="JavaScript" width="26px" src="https://offers-api.agregatoreat.ru/api/file/1cab61f9-3208-4568-8894-6988a026f49d" />
 
 
